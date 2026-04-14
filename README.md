@@ -114,7 +114,7 @@ This project demonstrates:
 
 ## 📷 Dashboard Preview
 
-(churn_dashboard)
+(dashboard.png)
 
 ---
 
