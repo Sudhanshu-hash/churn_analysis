@@ -15,7 +15,7 @@ This project analyzes customer churn behavior using Python and Power BI. The goa
 Source: [https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
 * Initial Data: Raw data was stored in Telco_Customer_Churn_data
 * Contains customer demographics, services, billing, and churn status
-* Cleared Data :[churn_cleaned_data]
+* Cleared Data: [churn_cleaned_data]
 ---
 
 ## 🛠 Tools & Technologies
